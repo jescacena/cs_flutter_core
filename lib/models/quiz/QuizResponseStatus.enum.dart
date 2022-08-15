@@ -1,0 +1,1 @@
+enum QuizzResponseStatus { initial, marked }
